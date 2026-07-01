@@ -53,7 +53,7 @@ This project was completed as part of the **DecodeLabs DevOps Internship**.
 **Huzoor Laghari**
 
 - GitHub: https://github.com/HuzoorLaghari
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: *(https://www.linkedin.com/in/huzoor-laghari/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BR87FlDKdRSutOaRG3SNZvw%3D%3D)*
 
 ---
 ⭐ If you found this repository useful, feel free to star it.
