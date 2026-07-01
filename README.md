@@ -1,30 +1,59 @@
-# Project DecodeLabs Task 1
+# DevOps Project 1 – Linux Commands Report
 
-## Overview
-This project contains 11 screenshots of a **dark-theme web application**, captured on **June 25, 2026** between **21:28 and 21:44**. The screenshots document a user flow through the application.
+## 📌 Overview
+This repository contains my **DevOps Project 1** completed as part of my **DecodeLabs DevOps Internship**. The project focuses on learning and practicing basic Linux commands that are essential for system administration and DevOps.
 
-## Screenshots Summary
+## 🎯 Objective
+- Learn Linux command-line basics
+- Understand file and directory management
+- Practice common Linux commands used in DevOps
+- Build a strong foundation for future DevOps projects
 
-| # | Timestamp | Size | Description |
-|---|-----------|------|-------------|
-| 1 | 21:28:16 | 27 KB | Initial/landing screen (minimal content) |
-| 2 | 21:28:25 | 144 KB | Content loaded — text/UI elements appear |
-| 3 | 21:28:47 | 199 KB | Complex UI — most detailed view with sidebar/content |
-| 4 | 21:34:15 | 58 KB | New view/navigation — reduced content |
-| 5 | 21:36:10 | 39 KB | Action performed — content area cleared |
-| 6 | 21:39:07 | 67 KB | New content loading/stage |
-| 7 | 21:39:29 | 73 KB | Content expands |
-| 8 | 21:39:48 | 91 KB | More content visible |
-| 9 | 21:40:49 | 98 KB | Content-rich state |
-| 10 | 21:41:16 | 110 KB | Dense content / selection state |
-| 11 | 21:44:19 | 48 KB | Final/completion state |
+## 🛠️ Commands Covered
 
-## Visual Theme
+- `pwd` – Display current working directory
+- `ls` – List files and directories
+- `ls -la` – View detailed file information
+- `mkdir` – Create directories
+- `cd` – Change directory
+- `touch` – Create files
+- `echo` – Write content to a file
+- `cat` – Display file contents
+- `cp` – Copy files
+- `mv` – Move or rename files
+- `rm` – Remove files
+- `rm -r` – Remove directories
+- `man` – View command manual
+- Linux directory structure (`cd /`, `ls`)
 
-- **Background:** Dark purple (`#300a24`)
-- **Panels:** Near-black (`#222222`, `#131313`)
-- **Text:** Gray (`#a6a6a6`) and White (`#ffffff`)
-- **Accent:** Green (`#26a269`) — likely indicators/active states
-- **UI Elements:** Blue links, orange warnings, dark borders
+## 📂 Repository Structure
 
-All screenshots are **1366×768** resolution (standard HD laptop display).
+```
+.
+├── README.md
+└── DevOps_Project1_Linux_Commands_Report.docx
+```
+
+## 📄 Report
+The repository includes a report containing:
+- Linux commands
+- Short explanation for each command
+
+## 🚀 Skills Gained
+- Linux Fundamentals
+- Command Line Interface (CLI)
+- File & Directory Management
+- Basic System Administration
+
+## 🎓 Internship
+This project was completed as part of the **DecodeLabs DevOps Internship**.
+
+## 👨‍💻 Author
+
+**Huzoor Laghari**
+
+- GitHub: https://github.com/HuzoorLaghari
+- LinkedIn: *(Add your LinkedIn profile URL here)*
+
+---
+⭐ If you found this repository useful, feel free to star it.
